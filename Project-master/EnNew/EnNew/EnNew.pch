@@ -1,0 +1,17 @@
+//
+//  EnNew.pch
+//  EnNew
+//
+//  Created by 莫名 on 16/11/8.
+//  Copyright © 2016年 hy. All rights reserved.
+//
+
+#ifndef EnNew_pch
+#define EnNew_pch
+
+#import "CommonDef.h"
+#import "ControlCommonDef.h"
+#import "NotiControlDef.h"
+#import "CommonToolsDef.h"
+
+#endif /* EnNew_pch */

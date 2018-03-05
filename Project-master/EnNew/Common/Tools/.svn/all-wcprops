@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ennew1-1-code/!svn/ver/5709/code/App/trunk/iOS/Project/EnNew/Common/Tools
+END
+EnnUMessageHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ennew1-1-code/!svn/ver/4839/code/App/trunk/iOS/Project/EnNew/Common/Tools/EnnUMessageHelper.h
+END
+PushManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ennew1-1-code/!svn/ver/4839/code/App/trunk/iOS/Project/EnNew/Common/Tools/PushManager.h
+END
+ScanCodeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ennew1-1-code/!svn/ver/5708/code/App/trunk/iOS/Project/EnNew/Common/Tools/ScanCodeManager.h
+END
+ToolsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ennew1-1-code/!svn/ver/4839/code/App/trunk/iOS/Project/EnNew/Common/Tools/ToolsManager.h
+END
+EnnUMessageHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ennew1-1-code/!svn/ver/4839/code/App/trunk/iOS/Project/EnNew/Common/Tools/EnnUMessageHelper.m
+END
+PushManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ennew1-1-code/!svn/ver/4839/code/App/trunk/iOS/Project/EnNew/Common/Tools/PushManager.m
+END
+ScanCodeManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ennew1-1-code/!svn/ver/5708/code/App/trunk/iOS/Project/EnNew/Common/Tools/ScanCodeManager.m
+END
+ToolsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ennew1-1-code/!svn/ver/4839/code/App/trunk/iOS/Project/EnNew/Common/Tools/ToolsManager.m
+END
+unLoginVCList.plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ennew1-1-code/!svn/ver/5503/code/App/trunk/iOS/Project/EnNew/Common/Tools/unLoginVCList.plist
+END

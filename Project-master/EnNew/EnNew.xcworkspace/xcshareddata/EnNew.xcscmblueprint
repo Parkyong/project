@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "682f3798-1613-41ac-9374-2e166a06eb39++6762",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "682f3798-1613-41ac-9374-2e166a06eb39++6762" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "682f3798-1613-41ac-9374-2e166a06eb39++6762" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A5903249-A8E1-4724-B6C6-B41DAD67E5B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "682f3798-1613-41ac-9374-2e166a06eb39++6762" : "iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EnNew",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Project\/EnNew\/EnNew.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.37.149.10\/ennew1-1-code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "682f3798-1613-41ac-9374-2e166a06eb39++6762"
+    }
+  ]
+}

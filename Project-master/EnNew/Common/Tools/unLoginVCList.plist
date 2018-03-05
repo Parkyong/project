@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>EJHomeViewController</string>
+	<string>EJClassifyViewController</string>
+	<string>EJSearchViewController</string>
+	<string>EJSearchResultViewController</string>
+	<string>EJProductDetailViewController</string>
+	<string>EJMyCenterViewController</string>
+	<string>EJSettingViewController</string>
+	<string>BaseWebViewController</string>
+	<string>EJLoginViewController</string>
+	<string>EJRegisterViewController</string>
+	<string>EJFindPasswordViewController</string>
+	<string>EJFilterCategoryViewController</string>
+	<string>EJBrandViewController</string>
+	<string>EJEvaluateViewController</string>
+	<string>EJShopHomeViewController</string>
+	<string>EJShopDetailViewController</string>
+	<string>EJShopHomeCategrayViewController</string>
+	<string>EJShopGoodsViewController</string>
+	<string>EJShopCategrayViewController</string>
+	<string>EJAboutUsViewController</string>
+</array>
+</plist>
